@@ -16,3 +16,8 @@ Learning Project for ebook Effective Java 2
 # Issues
 * khong hieu ve concurrency
 * 
+
+#Keywords
+* interface-based frameworks (item 18)
+* java.utl.EumSet
+
