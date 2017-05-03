@@ -1,8 +1,10 @@
 # effective-java-2
 Learning Project for ebook Effective Java 2
 
+Estimation time to complete: 9 days
+
 # TODO
-- [ ] chapter 2
+- [x] chapter 2
 - [ ] chapter 3
 - [ ] chapter 4
 - [ ] chapter 5
@@ -16,8 +18,3 @@ Learning Project for ebook Effective Java 2
 # Issues
 * khong hieu ve concurrency
 * 
-
-#Keywords
-* interface-based frameworks (item 18)
-* java.utl.EumSet
-
